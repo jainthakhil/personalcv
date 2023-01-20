@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    /* background-color: #A0C3D2; */
+    text-align: center;
+}
+
+h1{
+   /* font-family: 'Sacramento', cursive; */
+   font-family: "Sofia", sans-serif;
+}
+.top-container{
+    background-color: #A0C3D2;
+   
+}
+
+.middle-container{
+    background-color: #EAC7C7;;
+}
+.top-cloud{
+    margin-left: 500px;
+    padding-top: 10px;
+    
+}
+.bottom-cloud{
+    margin-right: 500px;
+   
+}
+.cloudbirds{
+    /* background-color: red; */
+    position: relative;
+
+
+}
+
+.birds{
+    margin-left: 30%;
+    height: 50px;
+    width: 50px;
+
+}
+.sun{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 80px;
+    width: 80px;
+}
+
+p{
+    font-weight: bold;
+}
+
+.myimg{
+    height: 150px;
+    width: 150px;
+}
+
+.linkedin {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+}
+.instagram{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    height: 30px;
+    width: 30px;
+}
+.contact{
+    text-decoration: none;
+    
+}
+.cont-hr{
+    width: 10%;
+    border: solid 4px;
+    color: gray;
+    border-style: dotted;
+    border-top-style: none;
+    
+}
+
+.top-hr{
+    width: 80%;
+    border: solid 5px;
+    color: gray;
+    border-style: dotted;
+    border-top-style: none;
+}
+
+/* .skillshr{
+    width: 10%;
+    border: solid 4px;
+    color: gray;
+    border-style: dotted;
+    border-top-style: none;
+} */
+
+.mid-hr{
+    width: 90%;
+    border: solid 5px;
+    color: gray;
+    border-style: dotted;
+    border-top-style: none;
+}
+.qr{
+    height: 100px;
+    width: 100px;
+    background-color: #F7F5EB;
+}
+
+.code{
+    border-radius: 100%;
+}
+
+.volleyball{
+    border-radius: 100%;
+}
+
+h2{
+    margin: 0; 
+}
+
+.profile>.instagram>img{
+    height: 30px;
+    width: 30px;
+    
+}
+.profile>.linkedin>img{
+    height: 30px;
+    width: 30px;
+}
+h3{
+    
+}
